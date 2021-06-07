@@ -1,0 +1,11 @@
+* haskell-nix-test
+:PROPERTIES:
+:ID:                     95bc8c2f-d47b-418e-ae65-1a82ad991b15
+:END:
+
+Just a small test for building Haskell projects with Nix
+infrastructure.
+
+#+begin_src bash
+  $ nix-build release.nix
+#+end_src
